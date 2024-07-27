@@ -1,2 +1,3 @@
 llama_code_gen/*
 .env
+__pycache__/*
